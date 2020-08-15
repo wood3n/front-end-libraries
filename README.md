@@ -19,7 +19,7 @@ collect front-end libraries
 
 [favicon.io](https://favicon.io/)
 
-[material-icons](https://material-ui.com/zh/components/icons/#svg-material-icons)
+[material-icons](https://www.npmjs.com/package/@material-ui/icons)
 
 [ant design icons](https://ant-design.gitee.io/components/icon-cn/)
 
